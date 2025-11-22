@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Sebastian Tenorio**
+# 👋 Hi
 
 [![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-blue)]()
 [![Data Science](https://img.shields.io/badge/Focus-Data%20Science-success)]()
