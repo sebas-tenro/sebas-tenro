@@ -8,7 +8,7 @@
 
 Master of Data Science candidate at UBC, with a BSc in Computer Science and Microbiology & Immunology.
 
-📫 [LinkedIn](www.linkedin.com/in/sebastian-tenro)
+📫 [LinkedIn](https://www.linkedin.com/in/sebastian-tenro)
 
 ## 🚀 **Data science enthusiast** with published microbiome research and experience in high-throughput analytical labs.  
 
